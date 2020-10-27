@@ -1,0 +1,2 @@
+# You can define functions and save them in one file. Then, whenever you want to use the same functions in a different problem, you have to make sure that you are using the same directory where your functions are saved
+# for example, if you create a file named functions.py under the directory practice, you can save it and work on another file and summon your functions by typing from functions import (your functions)
